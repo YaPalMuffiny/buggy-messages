@@ -1,0 +1,9 @@
+{
+    // You can comment here,
+    config: {
+        permissions: {
+            buggymsgs_command: 'admin',
+            message_filter_event: 'everyone',
+        },
+    }
+}
